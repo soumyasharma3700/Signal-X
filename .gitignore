@@ -1,0 +1,3 @@
+__pycache__/
+*.py[cod]
+backend/signalx_history.db
